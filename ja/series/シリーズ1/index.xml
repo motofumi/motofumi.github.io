@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>シリーズ1 on 明日までにやります</title>
+    <link>https://blog.motofumi.com/ja/series/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA1/</link>
+    <description>Recent content in シリーズ1 on 明日までにやります</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>motofumi (motofumi)</managingEditor>
+    <webMaster>motofumi (motofumi)</webMaster>
+    <copyright>©2020 - 2021, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 08 Jun 2021 14:50:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.motofumi.com/ja/series/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA1/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>英検3級のテスト</title>
+        <link>https://blog.motofumi.com/ja/posts/202106081445/</link>
+        <pubDate>Tue, 08 Jun 2021 14:50:00 +0900</pubDate>
+        <author>motofumi (motofumi)</author>
+        <atom:modified>Tue, 08 Jun 2021 14:50:00 +0900</atom:modified>
+        <guid>https://blog.motofumi.com/ja/posts/202106081445/</guid>
+        <description>テスト</description>
+        
+        <dc:creator>motofumi</dc:creator>
+        <media:content url="https://blog.motofumi.comimages/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>タグ1</category>
+            
+          
+        
+        
+          
+            
+              <category>カテゴリー1</category>
+            
+          
+        
+        
+          
+            
+              <category>シリーズ1</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
